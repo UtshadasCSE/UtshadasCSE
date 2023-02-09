@@ -12,14 +12,14 @@
 
 - 📫 How to reach me **utshachandradas@gmail.com**
 
-- 📄 Know about my experiences [https://utshadascse.github.io/myprofile/](https://utshadascse.github.io/myprofile/)
+- 📄 Know about my experiences [https://utshadascse.github.io/myprofile/](https://utsha.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/utsha74032593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utsha74032593" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/utsha-kumar-das-csebd25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utsha-kumar-das-csebd25/" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/utshadasreal567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/utshadasreal567" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/utsha_kumar_das/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/utsha_kumar_das/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/thinkaboututsha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thinkaboututsha/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@utsha15_3088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@utsha15_3088" height="30" width="40" /></a>
 </p>
 
