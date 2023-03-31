@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **utshachandradas@gmail.com**
 
-- 📄 Know about my experiences [https://utshadascse.github.io/myprofile/](https://utsha.xyz)
+- 📄 Know about my experiences [https://utshadascse.github.io/myprofile/](https://utshadas.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
