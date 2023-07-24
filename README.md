@@ -1,10 +1,11 @@
+![readme jpg](https://github.com/UtshadasCSE/UtshadasCSE/assets/75168319/6895dbfe-4e73-4783-ab35-2c61c1ec1e77)
 
 <h1 align="center">Hi 👋, I'm UTSHA KUMAR DAS</h1>
 <h3 align="center">A passionate App and Web developer from Bangladesh</h3>
 
 <br/><br/>
 ## 💫 About Me: <br /><br />
-🌱 I’m currently learning Computer Science and Engineering<br /><br />
+🌱 I’m currently learning Computer Science and Engineering<br /><br />   
 👯 I’m looking to collaborate on Github<br /><br />
 💬 Ask me about App and Web Development<br /><br />
 📫 How to reach me utshachandradas@gmail.com<br /><br />
