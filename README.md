@@ -45,8 +45,10 @@ XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UtshadasCSE&theme=radical&hide_border=false)<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtshadasCSE&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=UtshadasCSE&icon=5&color=7)](https://visitcount.itsvg.in)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UtshadasCSE&bg_color=e0e0ed&color=9e4c98&line=2d4ebd&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![](https://visitcount.itsvg.in/api?id=UtshadasCSE&icon=5&color=7)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
