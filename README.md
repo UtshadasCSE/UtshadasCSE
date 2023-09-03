@@ -1,7 +1,7 @@
 ![readme jpg](https://github.com/UtshadasCSE/UtshadasCSE/assets/75168319/6895dbfe-4e73-4783-ab35-2c61c1ec1e77)
 
 <h1 align="center">Hi 👋, I'm UTSHA KUMAR DAS</h1>
-<h3 align="center">A passionate App and Web developer from Bangladesh</h3>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 <br/><br/>
 ## 💫 About Me: <br /><br />   
