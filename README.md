@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm UTSHA KUMAR DAS</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
+<p>Hey there 👋! I'm Utsha Kumar Das, a MERN stack developer and WordPress enthusiast from Mirpur, Dhaka. With a degree in Computer Science from Daffodil International University, I'm passionate about crafting sleek and efficient web solutions. Specializing in frontend and backend development, I create dynamic and user-friendly websites tailored to your needs. Let's work together to bring your digital vision to life!</p>
 
 <br/><br/>
 ## 💫 About Me: <br /><br />   
