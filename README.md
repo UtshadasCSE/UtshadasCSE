@@ -6,7 +6,7 @@
 
 <br/><br/>
 ## 💫 About Me: <br /><br />   
-<img align="right" width="400" src="https://th.bing.com/th/id/R.cd37fa49c983ac905df0016fd5b6a2ee?rik=XYhzlatbpAHWnA&pid=ImgRaw&r=0">
+<img align="right" width="300" src="https://th.bing.com/th/id/R.cd37fa49c983ac905df0016fd5b6a2ee?rik=XYhzlatbpAHWnA&pid=ImgRaw&r=0">
 🌱 I'm a Computer Science and Engineering graduate.<br /><br />   
 👯 I’m looking to collaborate on Github<br /><br />     
 💬 Ask me about App and Web Development<br /><br />
