@@ -40,6 +40,17 @@ XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=plastic&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=plastic&logo=express&logoColor=white)
+![JSX](https://img.shields.io/badge/jsx-61DAFB.svg?style=plastic&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=plastic&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=plastic&logo=firebase&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=plastic&logo=nextdotjs&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-5A29E4.svg?style=plastic&logo=axios&logoColor=white)
+![JWT](https://img.shields.io/badge/jwt-000000.svg?style=plastic&logo=jsonwebtokens&logoColor=white)
+
 <br/><br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=UtshadasCSE&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br />
