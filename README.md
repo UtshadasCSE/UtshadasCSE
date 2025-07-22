@@ -11,7 +11,7 @@
 👯 I’m looking to collaborate on Github<br /><br />     
 💬 Ask me about App and Web Development<br /><br />
 📫 How to reach me utshachandradas@gmail.com<br /><br />
-📄 Know about my experiences https://heyutsha.free.nf//<br />
+📄 Know about my experiences https://utshastack.vercel.app/<br />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/utshadasreal567)
